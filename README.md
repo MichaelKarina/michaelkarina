@@ -48,6 +48,6 @@
 
 ###
 
-<p align="left">I'm Michael Karina, an enthusiastic coder committed to devising sophisticated resolutions for intricate challenges. Possessing a sharp attention to detail and a passion for inventive thinking, I excel at transforming concepts into tangible outcomes using programming. Whether I'm designing user-friendly interfaces, streamlining algorithms for optimal performance, or constructing resilient systems, I'm consistently driven to expand the horizons of what can be achieved. Come along with me as I navigate through the dynamic realm of technology, perpetually seeking to innovate and deliver impactful contributions to the software development community.</p>
+<p align="left">I'm Michael Karina, a passionate programmer dedicated to creating complex solutions for challenging problems. <br>With a keen eye for detail and a love of creative problem-solving, I'm good at leveraging programming to turn ideas into real-world results. Whether I'm creating user-friendly interfaces, optimizing algorithms for peak performance, or developing resilient systems, I'm always motivated to push the boundaries of what's possible. <br>Join me as I navigate the ever-changing world of technology, constantly striving to innovate and make meaningful contributions to the software development community.</p>
 
 ###
